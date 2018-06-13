@@ -7,7 +7,4 @@ public class File1Area3 {
     public File1Area3(){
 
     }
-    public File1Area3(String test){
-
-    }
 }
