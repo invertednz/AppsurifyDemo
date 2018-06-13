@@ -7,4 +7,7 @@ public class File1Area4 {
     public File1Area4(){
         
     }
+    public File1Area4(String test){
+
+    }
 }
